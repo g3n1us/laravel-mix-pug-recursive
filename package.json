@@ -28,6 +28,6 @@
     "mkdirp": "^0.5.1"
   },
   "peerDependencies": {
-    "laravel-mix": "^1.4.2 || 2.x || 3.x || 4.x"
+    "laravel-mix": "^1.4.2 || 2.x || 3.x || 4.x || 5.x"
   }
 }
